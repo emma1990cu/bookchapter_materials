@@ -30,16 +30,16 @@ Page numbers for quotations from any of these have **not** been checked; none ar
 ## Outline
 
 **3.1 Introduction: a wave of AI products for autism**
-Opening scene (e.g. ZX-V2, the picture-book tool narrating in the AI's own voice: "我终于学会了和星星世界沟通的方法"). The post-2023 boom; the research question; the argument in one paragraph; how it answers the book's question about artificial empathy.
+Opening scene (e.g. ZX-V2, the picture-book tool narrating in the AI's own voice: "我终于学会了和星星世界沟通的方法"). The post-2023 boom; the research question; the argument in one paragraph, loosely tied to the book's theme of artificial empathy.
 
 **3.2 Frame and method**
-Sociotechnical imaginaries as the discursive layer of the book's empathy *dispositif*; imagined users (Akrich, Spiel et al.); critical autism studies (Milton, Yergeau); critical AI and disability (Keyes, Shew). Corpus of 30 items (inventory IDs), selection, critical discourse analysis of text and video, the forum fieldnote; ethics (public posts, pseudonymisation); limits (no interviews, thin first-person material).
+Sociotechnical imaginaries; imagined users (Akrich, Spiel et al.); critical autism studies (Milton, Yergeau); critical AI and disability (Keyes, Shew). Corpus of 30 items (inventory IDs), selection, critical discourse analysis of text and video, the forum fieldnote; ethics (public posts, pseudonymisation); limits (no interviews, thin first-person material).
 
 **3.3 Context: "children of the stars", parent-led rehabilitation and AI for good**
 The 星星的孩子 metaphor; family burden and parent-run rehabilitation; the 2024 seven-ministry autism action plan; platform philanthropy and 科技向善 discourse after the generative-AI boom.
 
 **3.4 Autism as early signal, AI as detector: StellarCare** (QT02–QT05, QT-V1; 启音 QT-V2 as a design echo)
-"黄金干预期", diagnosis at 18 months, eye movement and micro-expressions, a "Chinese" multimodal database; care as monitoring. Link to Ch. 2 (facial coding).
+"黄金干预期", diagnosis at 18 months, eye movement and micro-expressions, a "Chinese" multimodal database; care as monitoring.
 
 **3.5 Autism as deficit, AI as trainer: ALSOLIFE** (AL01–AL03, AL-V2, AL-V5)
 The child as "a computer with a faulty keyboard and graphics card"; 174 milestones and scores; "3× human efficiency"; one hour of respite for parents. The special educators' counter-imaginary of autism as relational (AL-V1, AL-V3).
@@ -54,7 +54,7 @@ The three mirror pairs side by side; who the products' real users are; the absen
 General-purpose chatbots as mouthpiece (嘴替), thinking partner, and scaffold for getting started; "既不是安慰，也不是共情，而是…思维对齐" (ND03). The forum as a contrast case where autistic people are still spoken for.
 
 **3.9 Conclusion: from empathy to alignment**
-What the cases say about artificial empathy; what changes if understanding is treated as mutual; links to Ch. 2, 4 and 5.
+What the cases say about artificial empathy; what changes if understanding is treated as mutual.
 
 ## Record register
 
@@ -65,7 +65,8 @@ What the cases say about artificial empathy; what changes if understanding is tr
 4. **The forum.** The abstract mentions it without naming it. Decide whether 理想者大会 can be named and whether participants knew you were attending as a researcher.
 5. **Method label.** "Critical discourse analysis" is my reading of your hint; "multimodal discourse analysis" or "qualitative content analysis" are alternatives if you prefer.
 6. **Product names in English.** Alibaba's tool is described rather than named; confirm its official English name before naming it.
-7. **Word count and deadline** for the chapter are still unknown.
+7. **Link to the book.** Per your note, the abstract ties to the book only through "artificial empathy" (who is credited with understanding, and empathy vs. alignment); cross-chapter links have been dropped from the outline.
+8. **Word count and deadline** for the chapter are still unknown.
 
 **Assembled rather than authored**
 The abstract wording, titles, keywords and outline are my assembly of material already in the repo (handoff note, case analyses, inventory). The argument itself comes from the earlier alignment memo, not from a drafted chapter, so there is no manuscript yet to run a full promise check against.
