@@ -3,7 +3,7 @@
 ## The chapter
 - Author: Mengzhu AN. Written in **English**.
 - Book: *Artificial Empathy: Emotion AI, Robots and Autism*, edited by the author's PI (EMOROB project, Czech Science Foundation EXPRO GX23-05692X).
-- This is the **China chapter**. It analyses Chinese AI products for autism and the social imaginaries of autism they carry: "Children of the Stars" (星星的孩子), caregiver suffering, rehabilitation efficiency. It sets these against neurodivergent people's own use of AI.
+- This is the **China chapter** (Ch. 3). Content as agreed with the PI (this replaces the earlier abstract): after the generative-AI boom, a wave of Chinese AI products for autism appeared. The chapter analyses the social / sociotechnical imaginaries of autism built into several of these products, and neurodivergent people's own use of (mostly general-purpose) AI. The open task is aligning this with the book's theme of "artificial empathy" (computed empathy applied to both autistic people and machines). The PI's current one-line summary of Ch. 3 ("Children of the Stars", caregiver suffering) reflects the OLD abstract; those motifs are possible findings, not the frame.
 - Book-level frame: see the PI brief (`notes/book_brief.md`, to be added once the repo is private).
 - The chapter's theoretical frame is still open; most likely STS work on sociotechnical imaginaries.
 - Conventions: identity-first language ("autistic people") except where diagnostic discourse is itself the object.
