@@ -1,0 +1,38 @@
+/* 推广标识样式 */
+.promo-badge {
+  display: inline-block;
+  background: rgba(153, 153, 153, 0.08);
+  color: rgba(153, 153, 153, 0.75);
+  padding: 6px 14px;
+  border-radius: 2px;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.top-bar .promo-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  .top-bar .promo-badge {
+    top: 92px;
+    right: 15px;
+  }
+
+  .promo-badge {
+    padding: 4px 10px;
+    font-size: 11px;
+  }
+}
+
+.content-wrapper .promo-badge {
+  position: static;
+  display: block;
+  width: max-content;
+  margin: var(--spacing-md) 0 0 auto;
+}

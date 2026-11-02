@@ -1,0 +1,89 @@
+/* ========================================
+   Additional Component Styles
+   ======================================== */
+
+/* Dropdown active state for keyboard navigation */
+.has-dropdown.is-active .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+
+.has-dropdown.is-active > a {
+  color: var(--primary-blue-hover);
+}
+
+.has-dropdown.is-active .dropdown-arrow {
+  border-top-color: var(--primary-blue-hover);
+}
+
+/* Focus states for accessibility */
+/* a:focus,
+button:focus {
+  outline: 2px solid var(--primary-blue);
+  outline-offset: 2px;
+}
+
+.share-btn:focus {
+  outline-color: var(--text-gray);
+} */
+
+/* Skip link for accessibility */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--primary-blue);
+  color: var(--text-white);
+  padding: 8px 16px;
+  text-decoration: none;
+  z-index: 10000;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* Smooth scroll behavior for internal links */
+html {
+  scroll-padding-top: 120px;
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.mt-sm {
+  margin-top: var(--spacing-sm);
+}
+.mt-md {
+  margin-top: var(--spacing-md);
+}
+.mt-lg {
+  margin-top: var(--spacing-lg);
+}
+.mt-xl {
+  margin-top: var(--spacing-xl);
+}
+
+.mb-sm {
+  margin-bottom: var(--spacing-sm);
+}
+.mb-md {
+  margin-bottom: var(--spacing-md);
+}
+.mb-lg {
+  margin-bottom: var(--spacing-lg);
+}
+.mb-xl {
+  margin-bottom: var(--spacing-xl);
+}

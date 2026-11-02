@@ -1,0 +1,254 @@
+/* ========================================
+   Responsive Design - Media Queries
+   ======================================== */
+
+/* Tablet - 768px and up */
+@media (min-width: 768px) {
+  .article-title {
+    font-size: 32px;
+  }
+
+  .content-wrapper {
+    padding: var(--spacing-xl) var(--spacing-lg);
+  }
+
+  .footer-content {
+    flex-direction: row;
+  }
+}
+
+/* Desktop - 1024px and up */
+@media (min-width: 1024px) {
+  .top-bar .container {
+    padding: 0 var(--spacing-lg);
+  }
+
+  .main-nav .container {
+    padding: 0 var(--spacing-lg);
+  }
+
+  .content-wrapper {
+    padding: 40px var(--spacing-xl);
+  }
+
+  .article-title {
+    font-size: 34px;
+  }
+
+  .footer-logo {
+    padding: 50px 0;
+  }
+
+  .footer-info {
+    padding: 50px var(--spacing-xl) var(--spacing-xl);
+  }
+
+  /* Show dropdown menus on hover with delay */
+  .has-dropdown {
+    transition: all var(--transition-base);
+  }
+}
+
+/* Mobile - below 768px */
+@media (max-width: 767px) {
+  /* Top Bar */
+  .top-bar {
+    height: 80px;
+  }
+
+  .top-bar .container {
+    padding: 0 var(--spacing-sm);
+  }
+
+  .logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .logo img {
+    max-height: 35px;
+  }
+
+  .utility-links {
+    display: none;
+  }
+
+  .hamburger-btn {
+    display: flex;
+  }
+
+  .mobile-share-btn {
+    display: flex;
+    margin-left: auto;
+  }
+
+  /* Main Nav - Hide on mobile */
+  .main-nav {
+    display: none;
+  }
+
+  /* Mobile Menu Panel */
+  .mobile-menu-panel {
+    left: -280px;
+  }
+
+  .mobile-menu-panel.is-open {
+    left: 0;
+  }
+
+  /* Content */
+  .content-wrapper {
+    padding: var(--spacing-md) var(--spacing-sm);
+  }
+
+  .article-title {
+    font-size: 22px;
+    line-height: 1.4;
+    text-align: left;
+  }
+
+  .article-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+  }
+
+  .meta-left {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-md);
+  }
+
+  .share-buttons {
+    display: none;
+  }
+
+  .article-body {
+    font-size: 15px;
+  }
+
+  .article-body p {
+    margin-bottom: var(--spacing-md);
+  }
+
+  .article-author {
+    margin-top: var(--spacing-lg);
+    font-size: 13px;
+  }
+
+  /* Footer */
+  .footer-container {
+    padding: var(--spacing-lg) var(--spacing-md);
+  }
+
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--spacing-xs);
+  }
+
+  .footer-logo {
+    margin-bottom: var(--spacing-md);
+    padding: 0;
+  }
+
+  .footer-logo img {
+    max-height: 50px;
+  }
+
+  .footer-info {
+    padding: 0;
+    border: none;
+  }
+
+  .footer-section p {
+    font-size: 12px;
+    text-align: left;
+  }
+
+  .footer-links {
+    justify-content: center;
+    /* flex-direction: column; */
+    gap: var(--spacing-xs);
+  }
+
+  .footer-links a,
+  .footer-links span {
+    font-size: 12px;
+  }
+}
+
+/* Extra small mobile - below 375px */
+@media (max-width: 374px) {
+  .article-title {
+    font-size: 20px;
+  }
+
+  .article-body {
+    font-size: 14px;
+  }
+
+  .content-wrapper {
+    padding: var(--spacing-sm);
+  }
+
+  .share-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Print styles */
+@media print {
+  .top-bar,
+  .main-nav,
+  .hamburger-btn,
+  .mobile-menu-panel,
+  .share-buttons,
+  .site-footer {
+    display: none !important;
+  }
+
+  .content-wrapper {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .article-title {
+    font-size: 24pt;
+  }
+
+  .article-body {
+    font-size: 12pt;
+  }
+
+  .article-body a {
+    text-decoration: underline;
+  }
+
+  .article-body a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+  }
+}
