@@ -1,0 +1,203 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 750px) {
+  .page {
+    height: 735vw !important;
+  }
+  .iframe_wrap {
+    height: 572vw !important;
+  }
+  .banner_mobile {
+    display: block !important;
+  }
+  .banner_pc {
+    display: none !important;
+  }
+  .pc_images_02 {
+    display: none !important;
+  }
+  .image_mobile_2 {
+    margin-top: 10vw;
+    display: block !important;
+    text-align: center;
+  }
+  .image_mobile_2 > img {
+    width: 82vw;
+    height: auto;
+  }
+  .tabs_show {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start !important;
+    background-color: #fff;
+  }
+  .tabs_show .tab_card_mobile {
+    display: block !important;
+    cursor: pointer;
+    width: 100vw;
+    padding: 0 2vw;
+    box-sizing: border-box;
+  }
+  .tabs_show .tab_card_mobile > div:nth-child(1) {
+    margin: 5vw 2vw;
+    font-size: 3.2vw;
+    font-weight: 600;
+    color: #3c434d;
+    position: relative;
+  }
+  .tabs_show .tab_card_mobile > div:nth-child(1) > p {
+    text-align: left;
+    position: absolute;
+    top: -1.8vw;
+    left: 0;
+    z-index: 1;
+  }
+  .tabs_show .tab_card_mobile > div:nth-child(1) > span {
+    display: block;
+    position: absolute;
+    top: 1.5vw;
+    left: 0;
+    width: 9vw;
+    height: 1.5vw;
+    background-color: rgba(21, 145, 203, 0.2);
+    border-radius: 2vw;
+  }
+  .tabs_show .tab_card_mobile > div {
+    width: 96vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .tabs_show .tab_card_mobile > div > div {
+    border-radius: 1vw;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    width: 17vw;
+    height: 15vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .tabs_show .tab_card_mobile > div > div > img {
+    width: 5.5vw;
+    height: auto;
+  }
+  .tabs_show .tab_card_mobile > div > div > span {
+    font-size: 1.8vw;
+  }
+  .tabs_show .tab_card {
+    display: none !important;
+  }
+  .box_1 {
+    height: 556vw !important;
+  }
+  .text-wrapper_5 {
+    margin: 9vw 0 0.2vw 8vw !important;
+  }
+  .text-wrapper_5 .text_14 {
+    font-size: 4.3vw;
+  }
+  .video_player_wrap .video_player {
+    width: 83vw !important;
+  }
+  .group_2 {
+    width: 107vw !important;
+    height: 36.35vw !important;
+    margin-top: 8vw !important;
+  }
+  .text-wrapper_2 {
+    width: 60vw !important;
+    margin: 2.61vw 0 7.96vw 8.73vw !important;
+    line-height: 5.1vw !important;
+  }
+  .text-wrapper_3 {
+    left: 8.64vw !important;
+    top: 5.1vw !important;
+  }
+  .text_8,
+  .text_9 {
+    font-size: 3.55vw !important;
+  }
+  .block_1 {
+    width: 9.78vw !important;
+    height: 1.5vw !important;
+    margin: 7.25vw 0 0 8.63vw !important;
+  }
+  .text_3,
+  .paragraph_1,
+  .text_4,
+  .paragraph_2,
+  .text_5,
+  .paragraph_3,
+  .text_6 {
+    font-size: 2.7vw !important;
+  }
+  .text-wrapper_4 {
+    white-space: normal !important;
+    margin: 5.2vw 0 0 9.63vw !important;
+  }
+  .text-wrapper_4 .text_10,
+  .text-wrapper_4 .text_11 {
+    font-size: 3vw !important;
+  }
+  .image_4 {
+    width: 76.69vw !important;
+    height: 21.72vw !important;
+    margin: 10.33vw 0 0 10.7vw !important;
+  }
+  .group_3_btn {
+    margin: 10vw 0 1vw 23vw !important;
+    width: 50.13vw !important;
+    height: 7.48vw !important;
+  }
+  .text_12 {
+    font-size: 3.2vw !important;
+    line-height: normal !important;
+  }
+  .image_5 {
+    width: 3.72vw !important;
+    height: 2.2vw !important;
+    margin-top: 1.7vw !important;
+    margin-right: 2px;
+  }
+  .group_4 {
+    display: none;
+  }
+  .group_5 {
+    width: 100vw;
+    height: 30.08vw;
+    background: url(/dh-publicity-web/image/index/pic_3.png) 100% no-repeat;
+    background-size: 100% 100%;
+    justify-content: flex-center;
+    margin: 207.9vw 0 0 -100vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .group_5 > div:nth-child(1) {
+    flex: 1;
+    margin-right: 5vw;
+  }
+  .group_5 > div:nth-child(1) > img {
+    width: 19vw;
+    height: auto;
+    margin-left: 8vw;
+  }
+  .group_5 > div:nth-child(2) {
+    line-height: 1.7;
+    color: #fff;
+    flex: 3;
+  }
+  .group_5 > div:nth-child(2) > span:nth-child(1) {
+    font-size: 4.8vw;
+  }
+  .group_5 > div:nth-child(2) .text_footer_01 {
+    font-size: 3vw;
+  }
+  .group_5 > div:nth-child(2) .text_footer_02 {
+    font-size: 2.5vw;
+    color: #d2d3d4;
+  }
+}
