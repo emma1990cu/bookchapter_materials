@@ -3,6 +3,20 @@
 > Status: **working abstract**, written before the chapter is drafted. v2 follows Emma's five comments of 2 Nov: state "AI for good" context in the opening, product name ALSOLIFE home-training Bot, community creative AI use built in as the critical counterpart, the critical frame summarised under one bundled citation, and comments on the theoretical frame (section at the end).
 > Sources: `corpus/inventory.csv`; product analyses in `notes/handoff_2026-11-02.md` (branch `claude/project-thread-swkgqj`); community-use analysis in `reports/神经多元人士的创造性AI使用与主流产品想象.md` (branch `神经多元人士的自主AI使用`).
 
+## Outline v3: content headings in the PI's style (3 Nov; current)
+
+3.1 "AI for good" and the "children of the stars": state calls, platform philanthropy and a wave of autism products
+   (scene, question, argument; materials and method folded in here: discourse analysis of product materials 2024–2026, interpretive reading of autistic people's own accounts at forums and online sharing sessions)
+3.2 Seeing earlier than humans: StellarCare and autism as a signal to detect
+3.3 "Three times the efficiency of a human teacher": the ALSOLIFE home-training Bot and autism as a deficit to train
+3.4 Learning to speak to the stars: Alibaba's picture-book tool and the "warm" understander
+3.5 Understanding reassigned: empathy and sociality as training targets, AI as the one who understands
+3.6 Taking up general-purpose AI: autistic people's creation, mouthpieces and existential anxieties
+   3.6.1 Drawing from one's own interests
+   3.6.2 Speaking through the machine
+   3.6.3 Negotiating with death and the future
+3.7 Not enhancement but affordance: what AI might offer autistic people, on their terms
+
 ## Outline v2 and titles (3 Nov, matching abstract v4 + affordance ending)
 
 **Suggested titles**
