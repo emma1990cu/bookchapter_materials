@@ -20,10 +20,8 @@ Pattern to match the volume: 2–3-word conceptual main title, colon, descriptiv
 3.3 Seeing earlier than humans: StellarCare and autism as a signal to detect
 3.4 "Three times the efficiency of a human teacher": the ALSOLIFE home-training Bot and autism as a cognitive capacity to improve
 3.5 Learning to speak to the stars: Alibaba's picture-book tool and the "warm" understander
-3.6 Taking up general-purpose AI: autistic people's creation, mouthpieces and existential anxieties
-   3.6.1 Drawing from one's own interests
-   3.6.2 Speaking through the machine
-   3.6.3 Negotiating with death and the future
+3.6 Neurodivergent uses of AI: creative expression, communicative mediation and existential grounding
+   (sub-sections, if needed, follow the three terms)
 3.7 Not enhancement but affordance: what AI might offer autistic people, on their terms
 
 ## Outline v2 and titles (3 Nov, matching abstract v4 + affordance ending)
