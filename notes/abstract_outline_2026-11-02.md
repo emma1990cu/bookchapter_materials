@@ -3,6 +3,38 @@
 > Status: **working abstract**, written before the chapter is drafted. v2 follows Emma's five comments of 2 Nov: state "AI for good" context in the opening, product name ALSOLIFE home-training Bot, community creative AI use built in as the critical counterpart, the critical frame summarised under one bundled citation, and comments on the theoretical frame (section at the end).
 > Sources: `corpus/inventory.csv`; product analyses in `notes/handoff_2026-11-02.md` (branch `claude/project-thread-swkgqj`); community-use analysis in `reports/神经多元人士的创造性AI使用与主流产品想象.md` (branch `神经多元人士的自主AI使用`).
 
+## Outline v2 and titles (3 Nov, matching abstract v4 + affordance ending)
+
+**Suggested titles**
+1. Training Sociality or Affording It? AI Products for Autism and Autistic People's Creative AI Use in China (recommended)
+2. From Enhancement to Affordance: Autism, AI and the Politics of "AI for Good" in China
+3. Stars to Reach, Worlds to Make: Imagining Autism with AI in China
+
+**3.1 Introduction: "AI for good" and a wave of autism products**
+Opening contrast of two scenes (a product promo vs. an autistic person's own account of using AI). State calls ("AI+", 智能向善) and the post-2023 product wave. Question; argument: the relation between AI and autistic people is better understood not as enhancing their empathy or sociality but as social affordance.
+
+**3.2 Frameworks, materials and methods**
+Sociotechnical imaginaries (Jasanoff and Kim) for the products; critical autism studies (Milton, Yergeau) and technoableism (Shew); crip technoscience (Hamraie and Fritsch) and affordance (Gibson; Dokumaci) as inspiration for the second half. Materials: critical discourse analysis of product materials, 2024–2026; interpretive reading of autistic community members' own accounts at forums and online sharing sessions. Ethics (consent, pseudonyms) and positionality.
+
+**3.3 Context: autism, the state and platform philanthropy in China**
+"Children of the stars"; parent-led rehabilitation; the 2024 autism action plan; AI for good and corporate 科技向善 after the generative-AI boom.
+
+**3.4 Imagining autism through AI products**
+3.4.1 A signal to detect: StellarCare
+3.4.2 A deficit to train: the ALSOLIFE home-training Bot
+3.4.3 A distant star to reach: Alibaba's AI picture-book tool
+3.4.4 Understanding reassigned: AI as detector, trainer and "warm" understander; sociality and empathy as training targets (the enhancement logic)
+
+**3.5 Autistic people's creative uses of AI**
+3.5.1 Interest-driven creation
+3.5.2 A mouthpiece for communication
+3.5.3 Working through existential anxiety
+
+**3.6 From enhancement to social affordance**
+Side-by-side comparison of the two logics; affordance as a relation rather than a property of person or tool; limits and tensions (sycophantic AI, who has access and which autistic people can take part, platform capture of community creativity).
+
+**3.7 Conclusion: rethinking artificial empathy**
+
 ## Abstract v4 (3 Nov; current; 307 words with citations)
 
 In the wake of the generative-AI boom, and amid state calls to keep AI "for good", a wave of AI products for autistic children has appeared in China, from early-screening "agents" and home-based training devices to picture-book generators. At the same time, autistic people are putting AI to inventive uses of their own. This chapter sets the AI products that research institutes and technology companies have built for autism against the ways autistic people use AI themselves. Drawing on the framework of sociotechnical imaginaries (Jasanoff and Kim 2015), it first offers a critical discourse analysis of public materials on AI products that claim to support autistic children, including product pages, press reports, promotional and user-made short videos, and social-media posts from 2024 to 2026. Through three cases, StellarCare, the ALSOLIFE home-training Bot and Alibaba's AI picture-book tool, it shows how these products imagine autism as a signal to detect, a deficit to train or a distant "star" to reach. Across the three, the capacity to understand others is denied to autistic people and reassigned to AI itself, as detector, trainer or "warm" understander. Rather than simply receiving such purpose-built devices, autistic people have developed their own creative ways of using AI. Informed by critical autism studies and crip technoscience (Milton 2012; Yergeau 2018; Hamraie and Fritsch 2019; Shew 2023), the chapter then offers an interpretive reading of accounts that autistic community members themselves shared at forums and online sharing sessions, examining how they use general-purpose AI as a medium for interest-driven creation, a mouthpiece for communication, and a place to work through existential anxiety. These uses challenge the assumption, built into the products, that AI does good by making autistic people more social. Instead, they recast the question as one of social affordance: what social possibilities AI can open up for autistic people on their own terms.
