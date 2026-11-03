@@ -104,3 +104,13 @@ Wording, titles, keywords and outline are my assembly of the repo's analyses. Th
 - **China-specific disability anthropology** (Kohrman 2005, *Bodies of Difference*, University of California Press; **unverified**) for the state lineage of 残联 and 科技助残 discourse.
 
 Possible combined frame in one sentence: *products as vanguard sociotechnical imaginaries hooked into state AI-for-good discourse, read against crip technoscience practices of appropriation.*
+
+## Sources for "social affordance" (checked 3 Nov)
+
+| Reference | Use | Status |
+|---|---|---|
+| Gibson, J. J. (1979) *The Ecological Approach to Visual Perception*. Boston: Houghton Mifflin. | Origin of affordance; affordance as complementarity of animal and environment; other people as the richest affordances | Book standard. Page numbers for these two points (c. pp. 127, 135) from memory [VERIFY] |
+| Loveland, K. A. (1991) 'Social affordances and interaction II: Autism and the affordances of the human environment', *Ecological Psychology* 3(2): 99–119. | Autism-specific use of "social affordances" | Existence checked (X-MOL listing; companion paper Valenti & Gold 1991, part I); vol/pages from memory [VERIFY]. Note: developmental-psychology framing; reads autism as difficulty perceiving social affordances, so cite it as the term's origin and turn it around |
+| Hutchby, I. (2001) 'Technologies, texts and affordances', *Sociology* 35(2): 441–456. doi:10.1177/S0038038501000219 | Standard bridge of affordance into sociology of technology; relational, neither determinism nor pure social construction | Checked (Cambridge Core PDF) |
+| Davis, J. L. (2020) *How Artifacts Afford: The Power and Politics of Everyday Things*. Cambridge, MA: MIT Press. | Affordances as political and conditional ("mechanisms and conditions"), for different users | Checked (ANU, MIT Press listings) |
+| Dokumaci, A. (2023) *Activist Affordances: How Disabled People Improvise More Habitable Worlds*. Durham, NC: Duke University Press. | Disabled people improvising affordances in everyday life; closest to crip technoscience and to autistic people's creative AI use | Checked (Duke UP) |
