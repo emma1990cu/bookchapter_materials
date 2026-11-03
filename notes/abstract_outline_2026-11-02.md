@@ -3,6 +3,14 @@
 > Status: **working abstract**, written before the chapter is drafted. v2 follows Emma's five comments of 2 Nov: state "AI for good" context in the opening, product name ALSOLIFE home-training Bot, community creative AI use built in as the critical counterpart, the critical frame summarised under one bundled citation, and comments on the theoretical frame (section at the end).
 > Sources: `corpus/inventory.csv`; product analyses in `notes/handoff_2026-11-02.md` (branch `claude/project-thread-swkgqj`); community-use analysis in `reports/神经多元人士的创造性AI使用与主流产品想象.md` (branch `神经多元人士的自主AI使用`).
 
+## Chapter title options v3 (3 Nov)
+Pattern to match the volume: 2–3-word conceptual main title, colon, descriptive subtitle, title case, no question.
+
+1. Affording Sociality: Chinese AI Products for Autism and Autistic People's Creative Uses (recommended)
+2. From Enhancement to Affordance: Chinese AI Products for Autism and Autistic People's Creative Uses
+3. Training Sociality: Imaginaries of Autism in Chinese AI Products and Autistic Counter-Uses
+4. Social Affordance: AI for Good, Autism Products and Autistic Creativity in China
+
 ## Outline v3: content headings in the PI's style (3 Nov; current)
 
 3.1 "AI for good" and the "children of the stars": state calls, platform philanthropy and a wave of autism products
