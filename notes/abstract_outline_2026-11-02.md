@@ -15,10 +15,11 @@ Pattern to match the volume: 2–3-word conceptual main title, colon, descriptiv
 
 3.1 "AI for good" and the "children of the stars": state calls, platform philanthropy and a wave of autism products
    (scene, question, argument; materials and method folded in here: discourse analysis of product materials 2024–2026, interpretive reading of autistic people's own accounts at forums and online sharing sessions)
-3.2 Seeing earlier than humans: StellarCare and autism as a signal to detect
-3.3 "Three times the efficiency of a human teacher": the ALSOLIFE home-training Bot and autism as a cognitive capacity to improve
-3.4 Learning to speak to the stars: Alibaba's picture-book tool and the "warm" understander
-3.5 Understanding reassigned: empathy and sociality as training targets, AI as the one who understands
+3.2 Claiming to help: AI products for autistic children and the reassignment of understanding
+   (overview of the product wave; what the products share: empathy and sociality as training targets, AI as the one who understands)
+3.3 Seeing earlier than humans: StellarCare and autism as a signal to detect
+3.4 "Three times the efficiency of a human teacher": the ALSOLIFE home-training Bot and autism as a cognitive capacity to improve
+3.5 Learning to speak to the stars: Alibaba's picture-book tool and the "warm" understander
 3.6 Taking up general-purpose AI: autistic people's creation, mouthpieces and existential anxieties
    3.6.1 Drawing from one's own interests
    3.6.2 Speaking through the machine
